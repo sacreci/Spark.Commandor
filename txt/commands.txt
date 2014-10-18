@@ -1,0 +1,722 @@
+ahv.exe#C:/Program Files/Adobe/Adobe Help Viewer/1.0/ahv.exe
+arh.exe#C:/Program Files/Adobe/Adobe Photoshop CS5/arh.exe
+Photoshop.exe#C:/Program Files/Adobe/Adobe Photoshop CS5/Photoshop.exe
+airappinstaller.exe#C:/Program Files/Adobe/Flash Player/AddIns/airappinstaller/airappinstaller.exe
+AdobeCollabSync.exe#C:/Program Files/Adobe/Reader 8.0/Reader/AdobeCollabSync.exe
+Setup.exe#C:/Program Files/Adobe/Reader 8.0/Setup Files/{AC76BA86-7AD7-1033-7B44-A80000000002}/Setup.exe
+ATISetup.exe#C:/Program Files/ATI/CIM/Bin/ATISetup.exe
+InstallManagerApp.exe#C:/Program Files/ATI/CIM/Bin/InstallManagerApp.exe
+SetACL.exe#C:/Program Files/ATI/CIM/Bin/SetACL.exe
+Setup.exe#C:/Program Files/ATI/CIM/Bin/Setup.exe
+CLI.exe#C:/Program Files/ATI Technologies/ATI.ACE/Branding/CLI.exe
+MOM.exe#C:/Program Files/ATI Technologies/ATI.ACE/Branding/MOM.exe
+CCC.exe#C:/Program Files/ATI Technologies/ATI.ACE/Core-Static/CCC.exe
+CCCInstall.exe#C:/Program Files/ATI Technologies/ATI.ACE/Core-Static/CCCInstall.exe
+CLI.exe#C:/Program Files/ATI Technologies/ATI.ACE/Core-Static/CLI.exe
+CLIStart.exe#C:/Program Files/ATI Technologies/ATI.ACE/Core-Static/CLIStart.exe
+installShell.exe#C:/Program Files/ATI Technologies/ATI.ACE/Core-Static/installShell.exe
+LOG.exe#C:/Program Files/ATI Technologies/ATI.ACE/Core-Static/LOG.exe
+MMLoadDrv.exe#C:/Program Files/ATI Technologies/ATI.ACE/Core-Static/MMLoadDrv.exe
+MMLoadDrvPXDiscrete.exe#C:/Program Files/ATI Technologies/ATI.ACE/Core-Static/MMLoadDrvPXDiscrete.exe
+MOM.exe#C:/Program Files/ATI Technologies/ATI.ACE/Core-Static/MOM.exe
+CCCDsPreview.exe#C:/Program Files/ATI Technologies/ATI.ACE/Graphics-Previews-Common/CCCDsPreview.exe
+MMACEPrev.exe#C:/Program Files/ATI Technologies/ATI.ACE/Graphics-Previews-Common/MMACEPrev.exe
+MMACEPrevPXdiscrete.exe#C:/Program Files/ATI Technologies/ATI.ACE/Graphics-Previews-Common/MMACEPrevPXdiscrete.exe
+HydraDM.exe#C:/Program Files/ATI Technologies/HydraVision/HydraDM.exe
+HydraGrd.exe#C:/Program Files/ATI Technologies/HydraVision/HydraGrd.exe
+HydraMD.exe#C:/Program Files/ATI Technologies/HydraVision/HydraMD.exe
+ColorMania.exe#C:/Program Files/ColorMania/ColorMania.exe
+PDapp.exe#C:/Program Files/Common Files/Adobe/OOBE/PDApp/core/PDapp.exe
+Setup.exe#C:/Program Files/Common Files/Adobe/OOBE/PDApp/DWA/Setup.exe
+AAMLauncher.exe#C:/Program Files/Common Files/Adobe/OOBE/PDApp/UWA/AAMLauncher.exe
+updaterstartuputility.exe#C:/Program Files/Common Files/Adobe/OOBE/PDApp/UWA/updaterstartuputility.exe
+AdobeUpdater.exe#C:/Program Files/Common Files/Adobe/Updater5/AdobeUpdater.exe
+AdobeUpdaterInstallMgr.exe#C:/Program Files/Common Files/Adobe/Updater5/AdobeUpdaterInstallMgr.exe
+airappinstaller.exe#C:/Program Files/Common Files/Adobe AIR/Versions/1.0/Resources/airappinstaller.exe
+template.exe#C:/Program Files/Common Files/Adobe AIR/Versions/1.0/Resources/template.exe
+CDASrv.exe#C:/Program Files/Common Files/Common Desktop Agent/CDASrv.exe
+AMCap.exe#C:/Program Files/Common Files/iLook 300/AMCap.exe
+Monitor.exe#C:/Program Files/Common Files/iLook 300/Monitor.exe
+PASnap.exe#C:/Program Files/Common Files/iLook 300/PASnap.exe
+Remove.exe#C:/Program Files/Common Files/iLook 300/PXIINST32/Remove.exe
+Remover.exe#C:/Program Files/Common Files/iLook 300/PXIINST32/Remover.exe
+XPSetup.exe#C:/Program Files/Common Files/iLook 300/PXIINST32/XPSetup.exe
+Remove.exe#C:/Program Files/Common Files/iLook 300/PXIINST64/Remove.exe
+Remover.exe#C:/Program Files/Common Files/iLook 300/PXIINST64/Remover.exe
+XPSetup.exe#C:/Program Files/Common Files/iLook 300/PXIINST64/XPSetup.exe
+IDriver.exe#C:/Program Files/Common Files/InstallShield/Driver/10/Intel 32/IDriver.exe
+IDriver.exe#C:/Program Files/Common Files/InstallShield/Driver/11/Intel 32/IDriver.exe
+IDriverT.exe#C:/Program Files/Common Files/InstallShield/Driver/11/Intel 32/IDriverT.exe
+IKernel.exe#C:/Program Files/Common Files/InstallShield/Engine/6/Intel 32/IKernel.exe
+jaureg.exe#C:/Program Files/Common Files/Java/Java Update/jaureg.exe
+jucheck.exe#C:/Program Files/Common Files/Java/Java Update/jucheck.exe
+jusched.exe#C:/Program Files/Common Files/Java/Java Update/jusched.exe
+ConvertInkStore.exe#C:/Program Files/Common Files/microsoft shared/ink/ConvertInkStore.exe
+FlickLearningWizard.exe#C:/Program Files/Common Files/microsoft shared/ink/FlickLearningWizard.exe
+InkWatson.exe#C:/Program Files/Common Files/microsoft shared/ink/InkWatson.exe
+InputPersonalization.exe#C:/Program Files/Common Files/microsoft shared/ink/InputPersonalization.exe
+mip.exe#C:/Program Files/Common Files/microsoft shared/ink/mip.exe
+pipanel.exe#C:/Program Files/Common Files/microsoft shared/ink/pipanel.exe
+ShapeCollector.exe#C:/Program Files/Common Files/microsoft shared/ink/ShapeCollector.exe
+TabTip.exe#C:/Program Files/Common Files/microsoft shared/ink/TabTip.exe
+VSContentInstaller.exe#C:/Program Files/Common Files/microsoft shared/MSEnv/VSContentInstaller.exe
+VSLauncher.exe#C:/Program Files/Common Files/microsoft shared/MSEnv/VSLauncher.exe
+Oarpmany.exe#C:/Program Files/Common Files/microsoft shared/OFFICE14/Oarpmany.exe
+ODeploy.exe#C:/Program Files/Common Files/microsoft shared/OFFICE14/Office Setup Controller/ODeploy.exe
+Setup.exe#C:/Program Files/Common Files/microsoft shared/OFFICE14/Office Setup Controller/Setup.exe
+SmartTagInstall.exe#C:/Program Files/Common Files/microsoft shared/Smart Tag/SmartTagInstall.exe
+TfsNop.exe#C:/Program Files/Common Files/microsoft shared/Team Foundation Server/10.0/TfsNop.exe
+mspdbsrv.exe#C:/Program Files/Common Files/microsoft shared/VSA/9.0/VsaEnv/mspdbsrv.exe
+vsaenv.exe#C:/Program Files/Common Files/microsoft shared/VSA/9.0/VsaEnv/vsaenv.exe
+vsmsvr.exe#C:/Program Files/Common Files/microsoft shared/VSA/9.0/VsaEnv/vsmsvr.exe
+install.exe#C:/Program Files/Common Files/microsoft shared/VSTO/10.0/Microsoft Visual Studio 2010 Tools for Office Runtime (x86)/install.exe
+install.exe#C:/Program Files/Common Files/microsoft shared/VSTO/10.0/Microsoft Visual Studio 2010 Tools for Office Runtime (x86) Language Pack - RUS/install.exe
+VSTOInstaller.exe#C:/Program Files/Common Files/microsoft shared/VSTO/10.0/VSTOInstaller.exe
+SteamService.exe#C:/Program Files/Common Files/Steam/SteamService.exe
+skydrivesetup.exe#C:/Program Files/Common Files/Windows Live/.cache/c6afeb4d1cd981e02/skydrivesetup.exe
+uninstaller.exe#C:/Program Files/coupon downloader/uninstaller.exe
+DTAgent.exe#C:/Program Files/DAEMON Tools Pro/DTAgent.exe
+DTHelper.exe#C:/Program Files/DAEMON Tools Pro/DTHelper.exe
+DTImgEditor.exe#C:/Program Files/DAEMON Tools Pro/DTImgEditor.exe
+DTPro.exe#C:/Program Files/DAEMON Tools Pro/DTPro.exe
+DTShellHlp.exe#C:/Program Files/DAEMON Tools Pro/DTShellHlp.exe
+Extractor.exe#C:/Program Files/DAEMON Tools Pro/Extractor.exe
+InstallGadget.exe#C:/Program Files/DAEMON Tools Pro/InstallGadget.exe
+uninst.exe#C:/Program Files/DAEMON Tools Pro/uninst.exe
+DVDMaker.exe#C:/Program Files/DVD Maker/DVDMaker.exe
+callmsi.exe#C:/Program Files/ESET/ESET NOD32 Antivirus/callmsi.exe
+ecls.exe#C:/Program Files/ESET/ESET NOD32 Antivirus/ecls.exe
+ecmd.exe#C:/Program Files/ESET/ESET NOD32 Antivirus/ecmd.exe
+eeclnt.exe#C:/Program Files/ESET/ESET NOD32 Antivirus/eeclnt.exe
+egui.exe#C:/Program Files/ESET/ESET NOD32 Antivirus/egui.exe
+EHttpSrv.exe#C:/Program Files/ESET/ESET NOD32 Antivirus/EHttpSrv.exe
+ekrn.exe#C:/Program Files/ESET/ESET NOD32 Antivirus/ekrn.exe
+SysInspector.exe#C:/Program Files/ESET/ESET NOD32 Antivirus/SysInspector.exe
+SysRescue.exe#C:/Program Files/ESET/ESET NOD32 Antivirus/SysRescue.exe
+expdownload.exe#C:/Program Files/ExpressDownloader/expdownload.exe
+ExpressDownloader.exe#C:/Program Files/ExpressDownloader/ExpressDownloader.exe
+file.exe#C:/Program Files/ExpressDownloader/file.exe
+TorrentExpress.exe#C:/Program Files/ExpressDownloader/TorrentExpress.exe
+fbguard.exe#C:/Program Files/Firebird/Firebird_2_0/bin/fbguard.exe
+fbserver.exe#C:/Program Files/Firebird/Firebird_2_0/bin/fbserver.exe
+gbak.exe#C:/Program Files/Firebird/Firebird_2_0/bin/gbak.exe
+gdef.exe#C:/Program Files/Firebird/Firebird_2_0/bin/gdef.exe
+gfix.exe#C:/Program Files/Firebird/Firebird_2_0/bin/gfix.exe
+gpre.exe#C:/Program Files/Firebird/Firebird_2_0/bin/gpre.exe
+gsec.exe#C:/Program Files/Firebird/Firebird_2_0/bin/gsec.exe
+gsplit.exe#C:/Program Files/Firebird/Firebird_2_0/bin/gsplit.exe
+gstat.exe#C:/Program Files/Firebird/Firebird_2_0/bin/gstat.exe
+instclient.exe#C:/Program Files/Firebird/Firebird_2_0/bin/instclient.exe
+instreg.exe#C:/Program Files/Firebird/Firebird_2_0/bin/instreg.exe
+instsvc.exe#C:/Program Files/Firebird/Firebird_2_0/bin/instsvc.exe
+isql.exe#C:/Program Files/Firebird/Firebird_2_0/bin/isql.exe
+nbackup.exe#C:/Program Files/Firebird/Firebird_2_0/bin/nbackup.exe
+qli.exe#C:/Program Files/Firebird/Firebird_2_0/bin/qli.exe
+FLVPlayer.exe#C:/Program Files/FLVPlayer/FLVPlayer.exe
+chrmstp.exe#C:/Program Files/Google/Chrome/Application/37.0.2062.120/Installer/chrmstp.exe
+setup.exe#C:/Program Files/Google/Chrome/Application/37.0.2062.120/Installer/setup.exe
+chrmstp.exe#C:/Program Files/Google/Chrome/Application/37.0.2062.124/Installer/chrmstp.exe
+setup.exe#C:/Program Files/Google/Chrome/Application/37.0.2062.124/Installer/setup.exe
+chrome.exe#C:/Program Files/Google/Chrome/Application/chrome.exe
+GoogleCrashHandler.exe#C:/Program Files/Google/Update/1.3.24.15/GoogleCrashHandler.exe
+GoogleUpdate.exe#C:/Program Files/Google/Update/1.3.24.15/GoogleUpdate.exe
+GoogleUpdateBroker.exe#C:/Program Files/Google/Update/1.3.24.15/GoogleUpdateBroker.exe
+GoogleUpdateOnDemand.exe#C:/Program Files/Google/Update/1.3.24.15/GoogleUpdateOnDemand.exe
+GoogleUpdateSetup.exe#C:/Program Files/Google/Update/1.3.24.15/GoogleUpdateSetup.exe
+GoogleUpdate.exe#C:/Program Files/Google/Update/GoogleUpdate.exe
+setup.exe#C:/Program Files/InstallShield Installation Information/{5442DAB8-7177-49E1-8B22-09A049EA5996}/setup.exe
+setup.exe#C:/Program Files/InstallShield Installation Information/{7EF900F4-61A8-4D95-8A65-488D3BECA206}/setup.exe
+setup.exe#C:/Program Files/InstallShield Installation Information/{87F97FEE-7BB6-48AE-92C8-E6347FE6F3BC}/setup.exe
+setup.exe#C:/Program Files/InstallShield Installation Information/{8833FFB6-5B0C-4764-81AA-06DFEED9A476}/setup.exe
+setup.exe#C:/Program Files/InstallShield Installation Information/{D1504C77-1B19-4AF0-8DEC-946666123B55}/setup.exe
+setup.exe#C:/Program Files/InstallShield Installation Information/{F09EF8F2-0976-42C1-8D9D-8DF78337C6E3}/setup.exe
+ExtExport.exe#C:/Program Files/Internet Explorer/ExtExport.exe
+iediagcmd.exe#C:/Program Files/Internet Explorer/iediagcmd.exe
+ieinstal.exe#C:/Program Files/Internet Explorer/ieinstal.exe
+ielowutil.exe#C:/Program Files/Internet Explorer/ielowutil.exe
+iexplore.exe#C:/Program Files/Internet Explorer/iexplore.exe
+appletviewer.exe#C:/Program Files/Java/jdk1.8.0_20/bin/appletviewer.exe
+extcheck.exe#C:/Program Files/Java/jdk1.8.0_20/bin/extcheck.exe
+idlj.exe#C:/Program Files/Java/jdk1.8.0_20/bin/idlj.exe
+jabswitch.exe#C:/Program Files/Java/jdk1.8.0_20/bin/jabswitch.exe
+jar.exe#C:/Program Files/Java/jdk1.8.0_20/bin/jar.exe
+jarsigner.exe#C:/Program Files/Java/jdk1.8.0_20/bin/jarsigner.exe
+java.exe#C:/Program Files/Java/jdk1.8.0_20/bin/java.exe
+javac.exe#C:/Program Files/Java/jdk1.8.0_20/bin/javac.exe
+javadoc.exe#C:/Program Files/Java/jdk1.8.0_20/bin/javadoc.exe
+javafxpackager.exe#C:/Program Files/Java/jdk1.8.0_20/bin/javafxpackager.exe
+javah.exe#C:/Program Files/Java/jdk1.8.0_20/bin/javah.exe
+javap.exe#C:/Program Files/Java/jdk1.8.0_20/bin/javap.exe
+javapackager.exe#C:/Program Files/Java/jdk1.8.0_20/bin/javapackager.exe
+javaw.exe#C:/Program Files/Java/jdk1.8.0_20/bin/javaw.exe
+javaws.exe#C:/Program Files/Java/jdk1.8.0_20/bin/javaws.exe
+jcmd.exe#C:/Program Files/Java/jdk1.8.0_20/bin/jcmd.exe
+jconsole.exe#C:/Program Files/Java/jdk1.8.0_20/bin/jconsole.exe
+jdb.exe#C:/Program Files/Java/jdk1.8.0_20/bin/jdb.exe
+jdeps.exe#C:/Program Files/Java/jdk1.8.0_20/bin/jdeps.exe
+jhat.exe#C:/Program Files/Java/jdk1.8.0_20/bin/jhat.exe
+jinfo.exe#C:/Program Files/Java/jdk1.8.0_20/bin/jinfo.exe
+jjs.exe#C:/Program Files/Java/jdk1.8.0_20/bin/jjs.exe
+jmap.exe#C:/Program Files/Java/jdk1.8.0_20/bin/jmap.exe
+jmc.exe#C:/Program Files/Java/jdk1.8.0_20/bin/jmc.exe
+jps.exe#C:/Program Files/Java/jdk1.8.0_20/bin/jps.exe
+jrunscript.exe#C:/Program Files/Java/jdk1.8.0_20/bin/jrunscript.exe
+jsadebugd.exe#C:/Program Files/Java/jdk1.8.0_20/bin/jsadebugd.exe
+jstack.exe#C:/Program Files/Java/jdk1.8.0_20/bin/jstack.exe
+jstat.exe#C:/Program Files/Java/jdk1.8.0_20/bin/jstat.exe
+jstatd.exe#C:/Program Files/Java/jdk1.8.0_20/bin/jstatd.exe
+jvisualvm.exe#C:/Program Files/Java/jdk1.8.0_20/bin/jvisualvm.exe
+keytool.exe#C:/Program Files/Java/jdk1.8.0_20/bin/keytool.exe
+kinit.exe#C:/Program Files/Java/jdk1.8.0_20/bin/kinit.exe
+klist.exe#C:/Program Files/Java/jdk1.8.0_20/bin/klist.exe
+ktab.exe#C:/Program Files/Java/jdk1.8.0_20/bin/ktab.exe
+orbd.exe#C:/Program Files/Java/jdk1.8.0_20/bin/orbd.exe
+policytool.exe#C:/Program Files/Java/jdk1.8.0_20/bin/policytool.exe
+rmic.exe#C:/Program Files/Java/jdk1.8.0_20/bin/rmic.exe
+rmid.exe#C:/Program Files/Java/jdk1.8.0_20/bin/rmid.exe
+rmiregistry.exe#C:/Program Files/Java/jdk1.8.0_20/bin/rmiregistry.exe
+schemagen.exe#C:/Program Files/Java/jdk1.8.0_20/bin/schemagen.exe
+serialver.exe#C:/Program Files/Java/jdk1.8.0_20/bin/serialver.exe
+servertool.exe#C:/Program Files/Java/jdk1.8.0_20/bin/servertool.exe
+tnameserv.exe#C:/Program Files/Java/jdk1.8.0_20/bin/tnameserv.exe
+wsgen.exe#C:/Program Files/Java/jdk1.8.0_20/bin/wsgen.exe
+wsimport.exe#C:/Program Files/Java/jdk1.8.0_20/bin/wsimport.exe
+xjc.exe#C:/Program Files/Java/jdk1.8.0_20/bin/xjc.exe
+jabswitch.exe#C:/Program Files/Java/jdk1.8.0_20/jre/bin/jabswitch.exe
+java.exe#C:/Program Files/Java/jdk1.8.0_20/jre/bin/java.exe
+javacpl.exe#C:/Program Files/Java/jdk1.8.0_20/jre/bin/javacpl.exe
+javaw.exe#C:/Program Files/Java/jdk1.8.0_20/jre/bin/javaw.exe
+javaws.exe#C:/Program Files/Java/jdk1.8.0_20/jre/bin/javaws.exe
+jjs.exe#C:/Program Files/Java/jdk1.8.0_20/jre/bin/jjs.exe
+keytool.exe#C:/Program Files/Java/jdk1.8.0_20/jre/bin/keytool.exe
+kinit.exe#C:/Program Files/Java/jdk1.8.0_20/jre/bin/kinit.exe
+klist.exe#C:/Program Files/Java/jdk1.8.0_20/jre/bin/klist.exe
+ktab.exe#C:/Program Files/Java/jdk1.8.0_20/jre/bin/ktab.exe
+orbd.exe#C:/Program Files/Java/jdk1.8.0_20/jre/bin/orbd.exe
+policytool.exe#C:/Program Files/Java/jdk1.8.0_20/jre/bin/policytool.exe
+rmid.exe#C:/Program Files/Java/jdk1.8.0_20/jre/bin/rmid.exe
+rmiregistry.exe#C:/Program Files/Java/jdk1.8.0_20/jre/bin/rmiregistry.exe
+servertool.exe#C:/Program Files/Java/jdk1.8.0_20/jre/bin/servertool.exe
+ssvagent.exe#C:/Program Files/Java/jdk1.8.0_20/jre/bin/ssvagent.exe
+tnameserv.exe#C:/Program Files/Java/jdk1.8.0_20/jre/bin/tnameserv.exe
+nbexec.exe#C:/Program Files/Java/jdk1.8.0_20/lib/visualvm/platform/lib/nbexec.exe
+jabswitch.exe#C:/Program Files/Java/jre1.8.0_20/bin/jabswitch.exe
+java.exe#C:/Program Files/Java/jre1.8.0_20/bin/java.exe
+javacpl.exe#C:/Program Files/Java/jre1.8.0_20/bin/javacpl.exe
+javaw.exe#C:/Program Files/Java/jre1.8.0_20/bin/javaw.exe
+javaws.exe#C:/Program Files/Java/jre1.8.0_20/bin/javaws.exe
+jjs.exe#C:/Program Files/Java/jre1.8.0_20/bin/jjs.exe
+keytool.exe#C:/Program Files/Java/jre1.8.0_20/bin/keytool.exe
+kinit.exe#C:/Program Files/Java/jre1.8.0_20/bin/kinit.exe
+klist.exe#C:/Program Files/Java/jre1.8.0_20/bin/klist.exe
+ktab.exe#C:/Program Files/Java/jre1.8.0_20/bin/ktab.exe
+orbd.exe#C:/Program Files/Java/jre1.8.0_20/bin/orbd.exe
+policytool.exe#C:/Program Files/Java/jre1.8.0_20/bin/policytool.exe
+rmid.exe#C:/Program Files/Java/jre1.8.0_20/bin/rmid.exe
+rmiregistry.exe#C:/Program Files/Java/jre1.8.0_20/bin/rmiregistry.exe
+servertool.exe#C:/Program Files/Java/jre1.8.0_20/bin/servertool.exe
+ssvagent.exe#C:/Program Files/Java/jre1.8.0_20/bin/ssvagent.exe
+tnameserv.exe#C:/Program Files/Java/jre1.8.0_20/bin/tnameserv.exe
+jabswitch.exe#C:/Program Files/Java/jre7/bin/jabswitch.exe
+java.exe#C:/Program Files/Java/jre7/bin/java.exe
+javacpl.exe#C:/Program Files/Java/jre7/bin/javacpl.exe
+javaw.exe#C:/Program Files/Java/jre7/bin/javaw.exe
+javaws.exe#C:/Program Files/Java/jre7/bin/javaws.exe
+jqs.exe#C:/Program Files/Java/jre7/bin/jqs.exe
+keytool.exe#C:/Program Files/Java/jre7/bin/keytool.exe
+kinit.exe#C:/Program Files/Java/jre7/bin/kinit.exe
+klist.exe#C:/Program Files/Java/jre7/bin/klist.exe
+ktab.exe#C:/Program Files/Java/jre7/bin/ktab.exe
+orbd.exe#C:/Program Files/Java/jre7/bin/orbd.exe
+policytool.exe#C:/Program Files/Java/jre7/bin/policytool.exe
+rmid.exe#C:/Program Files/Java/jre7/bin/rmid.exe
+rmiregistry.exe#C:/Program Files/Java/jre7/bin/rmiregistry.exe
+servertool.exe#C:/Program Files/Java/jre7/bin/servertool.exe
+ssvagent.exe#C:/Program Files/Java/jre7/bin/ssvagent.exe
+tnameserv.exe#C:/Program Files/Java/jre7/bin/tnameserv.exe
+gdsmux.exe#C:/Program Files/K-Lite Codec Pack/Filters/Haali/gdsmux.exe
+CodecTweakTool.exe#C:/Program Files/K-Lite Codec Pack/Tools/CodecTweakTool.exe
+dsconfig.exe#C:/Program Files/K-Lite Codec Pack/Tools/dsconfig.exe
+graphstudio.exe#C:/Program Files/K-Lite Codec Pack/Tools/graphstudio.exe
+mediainfo.exe#C:/Program Files/K-Lite Codec Pack/Tools/mediainfo.exe
+StatsReader.exe#C:/Program Files/K-Lite Codec Pack/Tools/StatsReader.exe
+VobSubStrip.exe#C:/Program Files/K-Lite Codec Pack/Tools/VobSubStrip.exe
+WebpiCmd.exe#C:/Program Files/Microsoft/Web Platform Installer/WebpiCmd.exe
+WebPlatformInstaller.exe#C:/Program Files/Microsoft/Web Platform Installer/WebPlatformInstaller.exe
+Chess.exe#C:/Program Files/Microsoft Games/Chess/Chess.exe
+FreeCell.exe#C:/Program Files/Microsoft Games/FreeCell/FreeCell.exe
+Hearts.exe#C:/Program Files/Microsoft Games/Hearts/Hearts.exe
+HoldEm.exe#C:/Program Files/Microsoft Games/HoldEm/HoldEm.exe
+Mahjong.exe#C:/Program Files/Microsoft Games/Mahjong/Mahjong.exe
+MineSweeper.exe#C:/Program Files/Microsoft Games/Minesweeper/MineSweeper.exe
+bckgzm.exe#C:/Program Files/Microsoft Games/Multiplayer/Backgammon/bckgzm.exe
+chkrzm.exe#C:/Program Files/Microsoft Games/Multiplayer/Checkers/chkrzm.exe
+shvlzm.exe#C:/Program Files/Microsoft Games/Multiplayer/Spades/shvlzm.exe
+PurblePlace.exe#C:/Program Files/Microsoft Games/Purble Place/PurblePlace.exe
+Solitaire.exe#C:/Program Files/Microsoft Games/Solitaire/Solitaire.exe
+SpiderSolitaire.exe#C:/Program Files/Microsoft Games/SpiderSolitaire/SpiderSolitaire.exe
+HelpLibAgent.exe#C:/Program Files/Microsoft Help Viewer/v1.0/HelpLibAgent.exe
+HelpLibManager.exe#C:/Program Files/Microsoft Help Viewer/v1.0/HelpLibManager.exe
+install.exe#C:/Program Files/Microsoft Help Viewer/v1.0/Microsoft Help Viewer 1.0/install.exe
+install.exe#C:/Program Files/Microsoft Help Viewer/v1.0/Microsoft Help Viewer 1.0 Language Pack - RUS/install.exe
+excelcnv.exe#C:/Program Files/Microsoft Office/Office12/excelcnv.exe
+Wordconv.exe#C:/Program Files/Microsoft Office/Office12/Wordconv.exe
+SlSvcUtil.exe#C:/Program Files/Microsoft SDKs/Silverlight/v3.0/Tools/SlSvcUtil.exe
+al.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/al.exe
+AxImp.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/AxImp.exe
+gacutil.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/gacutil.exe
+guidgen.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/guidgen.exe
+ildasm.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/ildasm.exe
+lc.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/lc.exe
+Mdbg.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/Mdbg.exe
+midl.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/midl.exe
+midlc.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/midlc.exe
+mt.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/mt.exe
+al.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/NETFX 4.0 Tools/al.exe
+AxImp.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/NETFX 4.0 Tools/AxImp.exe
+gacutil.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/NETFX 4.0 Tools/gacutil.exe
+guidgen.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/NETFX 4.0 Tools/guidgen.exe
+ildasm.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/NETFX 4.0 Tools/ildasm.exe
+lc.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/NETFX 4.0 Tools/lc.exe
+Mdbg.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/NETFX 4.0 Tools/Mdbg.exe
+PEVerify.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/NETFX 4.0 Tools/PEVerify.exe
+ResGen.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/NETFX 4.0 Tools/ResGen.exe
+sgen.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/NETFX 4.0 Tools/sgen.exe
+sn.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/NETFX 4.0 Tools/sn.exe
+SqlMetal.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/NETFX 4.0 Tools/SqlMetal.exe
+SvcConfigEditor.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/NETFX 4.0 Tools/SvcConfigEditor.exe
+SvcUtil.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/NETFX 4.0 Tools/SvcUtil.exe
+TlbExp.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/NETFX 4.0 Tools/TlbExp.exe
+TlbImp.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/NETFX 4.0 Tools/TlbImp.exe
+Tracker.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/NETFX 4.0 Tools/Tracker.exe
+wsdl.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/NETFX 4.0 Tools/wsdl.exe
+xsd.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/NETFX 4.0 Tools/xsd.exe
+PEVerify.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/PEVerify.exe
+ResGen.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/ResGen.exe
+sgen.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/sgen.exe
+signtool.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/signtool.exe
+sn.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/sn.exe
+SqlMetal.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/SqlMetal.exe
+SvcConfigEditor.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/SvcConfigEditor.exe
+SvcUtil.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/SvcUtil.exe
+TlbExp.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/TlbExp.exe
+TlbImp.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/TlbImp.exe
+wsdl.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/wsdl.exe
+xsd.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/bin/xsd.exe
+SqlExpressChk.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/Bootstrapper/Packages/SqlExpress/SqlExpressChk.exe
+SqlExpressChk.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/Bootstrapper/Packages/SqlExpress2008/SqlExpressChk.exe
+VisualBasicPowerPacksSetup.exe#C:/Program Files/Microsoft SDKs/Windows/v7.0A/Bootstrapper/Packages/VBPowerPacks/ru/VisualBasicPowerPacksSetup.exe
+agcp.exe#C:/Program Files/Microsoft Silverlight/5.1.20513.0/agcp.exe
+coregen.exe#C:/Program Files/Microsoft Silverlight/5.1.20513.0/coregen.exe
+sllauncher.exe#C:/Program Files/Microsoft Silverlight/sllauncher.exe
+DISTRIB.exe#C:/Program Files/Microsoft SQL Server/100/COM/DISTRIB.exe
+logread.exe#C:/Program Files/Microsoft SQL Server/100/COM/logread.exe
+qrdrsvc.exe#C:/Program Files/Microsoft SQL Server/100/COM/qrdrsvc.exe
+replmerg.exe#C:/Program Files/Microsoft SQL Server/100/COM/replmerg.exe
+snapshot.exe#C:/Program Files/Microsoft SQL Server/100/COM/snapshot.exe
+tablediff.exe#C:/Program Files/Microsoft SQL Server/100/COM/tablediff.exe
+DTExec.exe#C:/Program Files/Microsoft SQL Server/100/DTS/Binn/DTExec.exe
+dtshost.exe#C:/Program Files/Microsoft SQL Server/100/DTS/Binn/dtshost.exe
+DTSWizard.exe#C:/Program Files/Microsoft SQL Server/100/DTS/Binn/DTSWizard.exe
+dtutil.exe#C:/Program Files/Microsoft SQL Server/100/DTS/Binn/dtutil.exe
+setup.exe#C:/Program Files/Microsoft SQL Server/100/Setup Bootstrap/Release/setup.exe
+LandingPage.exe#C:/Program Files/Microsoft SQL Server/100/Setup Bootstrap/Release/x86/LandingPage.exe
+SetupARP.exe#C:/Program Files/Microsoft SQL Server/100/Setup Bootstrap/Release/x86/SetupARP.exe
+setup.exe#C:/Program Files/Microsoft SQL Server/100/Setup Bootstrap/Update Cache/KB968369/ServicePack/setup.exe
+landingpage.exe#C:/Program Files/Microsoft SQL Server/100/Setup Bootstrap/Update Cache/KB968369/ServicePack/x86/landingpage.exe
+setup.exe#C:/Program Files/Microsoft SQL Server/100/Setup Bootstrap/Update Cache/KB968369/ServicePack/x86/setup/1049/pfiles/sqlservr/100/setup/release/setup.exe
+qphmbavs.exe#C:/Program Files/Microsoft SQL Server/100/Setup Bootstrap/Update Cache/KB968369/ServicePack/x86/setup/1049/pfiles/sqlservr/100/setup/release/x86/qphmbavs.exe
+setuparp.exe#C:/Program Files/Microsoft SQL Server/100/Setup Bootstrap/Update Cache/KB968369/ServicePack/x86/setup/1049/pfiles/sqlservr/100/setup/release/x86/setuparp.exe
+sqladhlp.exe#C:/Program Files/Microsoft SQL Server/100/Shared/sqladhlp.exe
+SqlDumper.exe#C:/Program Files/Microsoft SQL Server/100/Shared/SqlDumper.exe
+sqlsqm.exe#C:/Program Files/Microsoft SQL Server/100/Shared/sqlsqm.exe
+SqlWtsn.exe#C:/Program Files/Microsoft SQL Server/100/Shared/SqlWtsn.exe
+rdbgsetup.exe#C:/Program Files/Microsoft SQL Server/100/Shared/VS2008/1033/rdbgsetup.exe
+rdbgsetup.exe#C:/Program Files/Microsoft SQL Server/100/Shared/VS2008/1049/rdbgsetup.exe
+bcp.exe#C:/Program Files/Microsoft SQL Server/100/Tools/Binn/bcp.exe
+SQLdiag.exe#C:/Program Files/Microsoft SQL Server/100/Tools/Binn/SQLdiag.exe
+SqlLogShip.exe#C:/Program Files/Microsoft SQL Server/100/Tools/Binn/SqlLogShip.exe
+SQLPS.exe#C:/Program Files/Microsoft SQL Server/100/Tools/Binn/SQLPS.exe
+sqlbrowser.exe#C:/Program Files/Microsoft SQL Server/90/Shared/sqlbrowser.exe
+sqlwriter.exe#C:/Program Files/Microsoft SQL Server/90/Shared/sqlwriter.exe
+SqlPubWiz.exe#C:/Program Files/Microsoft SQL Server/90/Tools/Publishing/1.4/SqlPubWiz.exe
+DatabaseMail.exe#C:/Program Files/Microsoft SQL Server/MSSQL10.SQLEXPRESS/MSSQL/Binn/DatabaseMail.exe
+sqlmaint.exe#C:/Program Files/Microsoft SQL Server/MSSQL10.SQLEXPRESS/MSSQL/Binn/sqlmaint.exe
+sqlservr.exe#C:/Program Files/Microsoft SQL Server/MSSQL10.SQLEXPRESS/MSSQL/Binn/sqlservr.exe
+sqlstubss.exe#C:/Program Files/Microsoft SQL Server/MSSQL10.SQLEXPRESS/MSSQL/Binn/sqlstubss.exe
+xpadsi.exe#C:/Program Files/Microsoft SQL Server/MSSQL10.SQLEXPRESS/MSSQL/Binn/xpadsi.exe
+MOVIEMK.exe#C:/Program Files/Movie Maker 2.6/MOVIEMK.exe
+firefox.exe#C:/Program Files/Mozilla Firefox.bak/firefox.exe
+maintenanceservice.exe#C:/Program Files/Mozilla Firefox.bak/maintenanceservice.exe
+helper.exe#C:/Program Files/Mozilla Firefox.bak/uninstall/helper.exe
+updater.exe#C:/Program Files/Mozilla Firefox.bak/updater.exe
+OceanRange.exe#C:/Program Files/MSN Games/Морской бой. Подводная война/OceanRange.exe
+Uninstall.exe#C:/Program Files/MSN Games/Морской бой. Подводная война/Uninstall.exe
+nppIExplorerShell.exe#C:/Program Files/Notepad++/nppIExplorerShell.exe
+uninstall.exe#C:/Program Files/Notepad++/uninstall.exe
+gpup.exe#C:/Program Files/Notepad++/updater/gpup.exe
+GUP.exe#C:/Program Files/Notepad++/updater/GUP.exe
+installer.exe#C:/Program Files/Opera/24.0.1558.61/installer.exe
+opera.exe#C:/Program Files/Opera/24.0.1558.61/opera.exe
+installer.exe#C:/Program Files/Opera/24.0.1558.64/installer.exe
+opera.exe#C:/Program Files/Opera/24.0.1558.64/opera.exe
+launcher.exe#C:/Program Files/Opera/launcher.exe
+BsSndRpt.exe#C:/Program Files/Pando Networks/Media Booster/BsSndRpt.exe
+PMB.exe#C:/Program Files/Pando Networks/Media Booster/PMB.exe
+uninst.exe#C:/Program Files/Pando Networks/Media Booster/uninst.exe
+RLContentInstallAPU.exe#C:/Program Files/Reallusion/ContentInstall/RLContentInstallAPU.exe
+CTCamSuite.exe#C:/Program Files/Reallusion/CrazyTalk CamSuite/CTCamSuite.exe
+wmfdist.exe#C:/Program Files/Reallusion/CrazyTalk CamSuite/WMSDK9/wmfdist.exe
+AERTSrv.exe#C:/Program Files/Realtek/Audio/HDA/AERTSrv.exe
+RtHDVBg.exe#C:/Program Files/Realtek/Audio/HDA/RtHDVBg.exe
+RtHDVCpl.exe#C:/Program Files/Realtek/Audio/HDA/RtHDVCpl.exe
+RtkAudioService.exe#C:/Program Files/Realtek/Audio/HDA/RtkAudioService.exe
+RtlUpd.exe#C:/Program Files/Realtek/Audio/HDA/RtlUpd.exe
+SkyTel.exe#C:/Program Files/Realtek/Audio/HDA/SkyTel.exe
+vncutil.exe#C:/Program Files/Realtek/Audio/HDA/vncutil.exe
+RocketDock.exe#C:/Program Files/RocketDock/RocketDock.exe
+Debug.exe#C:/Program Files/RocketDock/Tools/Debug.exe
+CDAHelper.exe#C:/Program Files/Samsung/Easy Printer Manager/CDAS2PC/CDAHelper.exe
+ImageEng.exe#C:/Program Files/Samsung/Easy Printer Manager/CDAS2PC/ImageEng.exe
+IDSAlert.exe#C:/Program Files/Samsung/Easy Printer Manager/IDSAlert.exe
+OrderSupplies.exe#C:/Program Files/Samsung/Easy Printer Manager/OrderSupplies.exe
+ScrPrint.exe#C:/Program Files/Samsung/Easy Printer Manager/ScrPrint.exe
+FixLangCodes.exe#C:/Program Files/Samsung/Easy Printer Manager/SmartScreenPrint/FixLangCodes.exe
+GwHH.exe#C:/Program Files/Samsung/Easy Printer Manager/SmartScreenPrint/GwHH.exe
+SmartPrintScreen.exe#C:/Program Files/Samsung/Easy Printer Manager/SmartScreenPrint/SmartPrintScreen.exe
+SpoolerComp.exe#C:/Program Files/Samsung/Easy Printer Manager/SpoolerComp.exe
+SysTray.exe#C:/Program Files/Samsung/Easy Printer Manager/SysTray.exe
+Uninst.exe#C:/Program Files/Samsung/Easy Printer Manager/Uninst.exe
+uninstall.exe#C:/Program Files/Samsung/Easy Printer Manager/uninstall.exe
+MainInst.exe#C:/Program Files/Samsung/Samsung SCX-3400 Series/Setup/Setup/bin/MainInst.exe
+SSIcon.exe#C:/Program Files/Samsung/Samsung SCX-3400 Series/Setup/Setup/bin/SSIcon.exe
+ssinstAD.exe#C:/Program Files/Samsung/Samsung SCX-3400 Series/Setup/Setup/bin/ssinstAD.exe
+SSndii.exe#C:/Program Files/Samsung/Samsung SCX-3400 Series/Setup/Setup/bin/SSndii.exe
+SSOpen.exe#C:/Program Files/Samsung/Samsung SCX-3400 Series/Setup/Setup/bin/SSOpen.exe
+SSWSPExe.exe#C:/Program Files/Samsung/Samsung SCX-3400 Series/Setup/Setup/bin/SSWSPExe.exe
+wiainst.exe#C:/Program Files/Samsung/Samsung SCX-3400 Series/Setup/Setup/bin/wiainst.exe
+sskinst.exe#C:/Program Files/Samsung/Samsung SCX-3400 Series/Setup/Setup/VECP/VISTA_64/sskinst.exe
+setup.exe#C:/Program Files/Samsung/Samsung SCX-3400 Series/Setup/setup.exe
+LUpdate.exe#C:/Program Files/SamsungPrinterLiveUpdate/LUpdate.exe
+LUMgr.exe#C:/Program Files/SamsungPrinterLiveUpdateInstaller/LUMgr.exe
+lusetup.exe#C:/Program Files/SamsungPrinterLiveUpdateInstaller/lusetup.exe
+setup.exe#C:/Program Files/SamsungPrinterLiveUpdateInstaller/setup.exe
+uninstall.exe#C:/Program Files/SamsungPrinterLiveUpdateInstaller/uninstall.exe
+ICCUpdater.exe#C:/Program Files/Scan Assistant/ICCUpdater.exe
+ImageEng.exe#C:/Program Files/Scan Assistant/ImageEng.exe
+SALocaleCache.exe#C:/Program Files/Scan Assistant/SALocaleCache.exe
+SAProc.exe#C:/Program Files/Scan Assistant/SAProc.exe
+SAScan.exe#C:/Program Files/Scan Assistant/SAScan.exe
+SAStitch.exe#C:/Program Files/Scan Assistant/SAStitch.exe
+uninstall.exe#C:/Program Files/Scan Assistant/uninstall.exe
+USDAgent.exe#C:/Program Files/Scan Assistant/USDAgent.exe
+SkypeBrowserHost.exe#C:/Program Files/Skype/Browser/SkypeBrowserHost.exe
+Skype.exe#C:/Program Files/Skype/Phone/Skype.exe
+AvqBtEnum.exe#C:/Program Files/Sony/Sony PC Companion/AvqBtEnum.exe
+DPInst.exe#C:/Program Files/Sony/Sony PC Companion/Drivers/DPInst.exe
+OMSILogsOnDesktop.exe#C:/Program Files/Sony/Sony PC Companion/OMSILogsOnDesktop.exe
+PCCompanion.exe#C:/Program Files/Sony/Sony PC Companion/PCCompanion.exe
+PCCompanionInfo.exe#C:/Program Files/Sony/Sony PC Companion/PCCompanionInfo.exe
+PCCService.exe#C:/Program Files/Sony/Sony PC Companion/PCCService.exe
+Pexplore.exe#C:/Program Files/Sony/Sony PC Companion/Pexplore.exe
+PCCService.exe#C:/Program Files/Sony/Sony PC Companion/Plugins/{9F4EE08D-7C2C-4F5D-8FA9-43C3D115DB25}/patch/PCCService.exe
+rpshell.exe#C:/Program Files/Sony/Sony PC Companion/rpshell.exe
+steamservice.exe#C:/Program Files/Steam/bin/steamservice.exe
+steamwebhelper.exe#C:/Program Files/Steam/bin/steamwebhelper.exe
+GameOverlayUI.exe#C:/Program Files/Steam/GameOverlayUI.exe
+Steam.exe#C:/Program Files/Steam/Steam.exe
+dmxconvert.exe#C:/Program Files/Steam/SteamApps/common/dota 2 beta/bin/dmxconvert.exe
+hlmv.exe#C:/Program Files/Steam/SteamApps/common/dota 2 beta/bin/hlmv.exe
+studiomdl.exe#C:/Program Files/Steam/SteamApps/common/dota 2 beta/bin/studiomdl.exe
+vtex.exe#C:/Program Files/Steam/SteamApps/common/dota 2 beta/bin/vtex.exe
+dota.exe#C:/Program Files/Steam/SteamApps/common/dota 2 beta/dota.exe
+DXSETUP.exe#C:/Program Files/Steam/SteamApps/common/dota 2 beta/_CommonRedist/DirectX/Jun2010/DXSETUP.exe
+steamerrorreporter.exe#C:/Program Files/Steam/steamerrorreporter.exe
+SteamTmp.exe#C:/Program Files/Steam/SteamTmp.exe
+WriteMiniDump.exe#C:/Program Files/Steam/WriteMiniDump.exe
+TeamViewer.exe#C:/Program Files/TeamViewer/Version9/TeamViewer.exe
+uninstall.exe#C:/Program Files/TeamViewer/Version9/uninstall.exe
+CHMView.exe#C:/Program Files/Total Commander/Plugins/wcx/CHMDir/CHMView.exe
+UnCHMw.exe#C:/Program Files/Total Commander/Plugins/wcx/CHMDir/UnCHMw.exe
+wtdump.exe#C:/Program Files/Total Commander/Plugins/wcx/CHMDir/wtdump.exe
+wtedit.exe#C:/Program Files/Total Commander/Plugins/wcx/CHMDir/wtedit.exe
+Imagine.exe#C:/Program Files/Total Commander/Plugins/wlx/Imagine/Imagine.exe
+Tcmadmin.exe#C:/Program Files/Total Commander/Tcmadmin.exe
+TcUsbRun.exe#C:/Program Files/Total Commander/TcUsbRun.exe
+Totalcmd.exe#C:/Program Files/Total Commander/Totalcmd.exe
+Uninstall.exe#C:/Program Files/Total Commander/Uninstall.exe
+Button.exe#C:/Program Files/Total Commander/Utilites/SFX Tool/Button.exe
+AkelAdmin.exe#C:/Program Files/Total Commander/Utils/AkelPad/AkelFiles/AkelAdmin.exe
+AkelPad.exe#C:/Program Files/Total Commander/Utils/AkelPad/AkelPad.exe
+colors.exe#C:/Program Files/Total Commander/Utils/Impomezia/colors.exe
+restarttc.exe#C:/Program Files/Total Commander/Utils/Impomezia/restarttc.exe
+Rar.exe#C:/Program Files/Total Commander/Utils/Rar/Rar.exe
+STDUViewerApp.exe#C:/Program Files/Total Commander/Utils/STDU Viewer/STDUViewerApp.exe
+TweakTC.exe#C:/Program Files/Total Commander/Utils/TweakTC/TweakTC.exe
+WhatInStartup.exe#C:/Program Files/Total Commander/Utils/WhatInStartup/WhatInStartup.exe
+AtomicParsley.exe#C:/Program Files/Total Video Converter/AtomicParsley.exe
+GameCapture.exe#C:/Program Files/Total Video Converter/GameCapture.exe
+itunescpy.exe#C:/Program Files/Total Video Converter/itunescpy.exe
+Kdc.exe#C:/Program Files/Total Video Converter/Kdc.exe
+MediaBurner.exe#C:/Program Files/Total Video Converter/MediaBurner.exe
+RmDiskCp.exe#C:/Program Files/Total Video Converter/RmDiskCp.exe
+tvc.exe#C:/Program Files/Total Video Converter/tvc.exe
+tvcshell.exe#C:/Program Files/Total Video Converter/tvcshell.exe
+tvp.exe#C:/Program Files/Total Video Converter/tvp.exe
+uTorrent.exe#C:/Program Files/uTorrent/uTorrent.exe
+MpCmdRun.exe#C:/Program Files/Windows Defender/MpCmdRun.exe
+MSASCui.exe#C:/Program Files/Windows Defender/MSASCui.exe
+Journal.exe#C:/Program Files/Windows Journal/Journal.exe
+PDIALOG.exe#C:/Program Files/Windows Journal/PDIALOG.exe
+wab.exe#C:/Program Files/Windows Mail/wab.exe
+WindowsMailGadget.exe#C:/Program Files/Windows Mail/WindowsMailGadget.exe
+WinMail.exe#C:/Program Files/Windows Mail/WinMail.exe
+wmlaunch.exe#C:/Program Files/Windows Media Player/wmlaunch.exe
+wmpconfig.exe#C:/Program Files/Windows Media Player/wmpconfig.exe
+WMPDMC.exe#C:/Program Files/Windows Media Player/WMPDMC.exe
+wmpenc.exe#C:/Program Files/Windows Media Player/wmpenc.exe
+wmplayer.exe#C:/Program Files/Windows Media Player/wmplayer.exe
+wmpnetwk.exe#C:/Program Files/Windows Media Player/wmpnetwk.exe
+wmpnscfg.exe#C:/Program Files/Windows Media Player/wmpnscfg.exe
+wmprph.exe#C:/Program Files/Windows Media Player/wmprph.exe
+wmpshare.exe#C:/Program Files/Windows Media Player/wmpshare.exe
+WMPSideShowGadget.exe#C:/Program Files/Windows Media Player/WMPSideShowGadget.exe
+wordpad.exe#C:/Program Files/Windows NT/Accessories/wordpad.exe
+ImagingDevices.exe#C:/Program Files/Windows Photo Viewer/ImagingDevices.exe
+sidebar.exe#C:/Program Files/Windows Sidebar/sidebar.exe
+rpcapd.exe#C:/Program Files/WinPcap/rpcapd.exe
+Uninstall.exe#C:/Program Files/WinPcap/Uninstall.exe
+Rar.exe#C:/Program Files/WinRAR/Rar.exe
+Uninstall.exe#C:/Program Files/WinRAR/Uninstall.exe
+UnRAR.exe#C:/Program Files/WinRAR/UnRAR.exe
+WinRAR.exe#C:/Program Files/WinRAR/WinRAR.exe
+capinfos.exe#C:/Program Files/Wireshark/capinfos.exe
+dumpcap.exe#C:/Program Files/Wireshark/dumpcap.exe
+editcap.exe#C:/Program Files/Wireshark/editcap.exe
+mergecap.exe#C:/Program Files/Wireshark/mergecap.exe
+qtshark.exe#C:/Program Files/Wireshark/qtshark.exe
+rawshark.exe#C:/Program Files/Wireshark/rawshark.exe
+reordercap.exe#C:/Program Files/Wireshark/reordercap.exe
+tshark.exe#C:/Program Files/Wireshark/tshark.exe
+uninstall.exe#C:/Program Files/Wireshark/uninstall.exe
+Wireshark.exe#C:/Program Files/Wireshark/Wireshark.exe
+autopatcher.exe#D:/Age of Empires III/autopatcher.exe
+autopatcherx.exe#D:/Age of Empires III/autopatcherx.exe
+autopatchery.exe#D:/Age of Empires III/autopatchery.exe
+chktrust.exe#D:/Age of Empires III/chktrust.exe
+filecrc.exe#D:/Age of Empires III/filecrc.exe
+instapup.exe#D:/Age of Empires III/instapup.exe
+instapupx.exe#D:/Age of Empires III/instapupx.exe
+instapupy.exe#D:/Age of Empires III/instapupy.exe
+DXSETUP.exe#D:/Age of Empires III/redist/DirectX/DXSETUP.exe
+Register.exe#D:/Age of Empires III/Register.exe
+splash.exe#D:/Age of Empires III/splash.exe
+bdcam.exe#D:/Bandicam/bdcam.exe
+bdfix.exe#D:/Bandicam/bdfix.exe
+uninstall.exe#D:/Bandicam/uninstall.exe
+dxwebsetup.exe#D:/Battlefield 4/Soft/dxwebsetup.exe
+encprobe.exe#D:/encprobe.exe
+ffdec.exe#D:/FFDec/ffdec.exe
+FlashPlayer.exe#D:/FFDec/lib/FlashPlayer.exe
+UnReg.exe#D:/Guitar Pro 6.0.7 b2 r8924 (T)/UnReg.exe
+autorun.exe#D:/Iron Man/autorun.exe
+DXSETUP.exe#D:/Iron Man/DirectX9/DXSETUP.exe
+setup.exe#D:/Iron Man/setup.exe
+uninstall.exe#D:/Notepad++/uninstall.exe
+gpup.exe#D:/Notepad++/updater/gpup.exe
+GUP.exe#D:/Notepad++/updater/GUP.exe
+PWLauncher.exe#D:/Prime World/PWLauncher.exe
+SelfUpdateWatchdog.exe#D:/Prime World/tools/SelfUpdateWatchdog.exe
+xdelta.exe#D:/Prime World/tools/xdelta.exe
+python.exe#D:/python/python.exe
+pythonw.exe#D:/python/pythonw.exe
+Beastmaster.exe#D:/Revolt of the Beastmasters/Beastmaster.exe
+clokspl.exe#D:/Revolt of the Beastmasters/clokspl.exe
+Setup.exe#D:/Setup/Setup.exe
+Skype.exe#D:/Skype/Phone/Skype.exe
+dmxconvert.exe#D:/SteamLibrary/SteamApps/common/dota 2 test/bin/dmxconvert.exe
+hlmv.exe#D:/SteamLibrary/SteamApps/common/dota 2 test/bin/hlmv.exe
+studiomdl.exe#D:/SteamLibrary/SteamApps/common/dota 2 test/bin/studiomdl.exe
+vtex.exe#D:/SteamLibrary/SteamApps/common/dota 2 test/bin/vtex.exe
+dota.exe#D:/SteamLibrary/SteamApps/common/dota 2 test/dota.exe
+DXSETUP.exe#D:/SteamLibrary/SteamApps/common/dota 2 test/_CommonRedist/DirectX/Jun2010/DXSETUP.exe
+NMRObjective.exe#D:/SteamLibrary/SteamApps/common/nmrih/nmrih/util/NMRObjective.exe
+bspzip.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/bspzip.exe
+captioncompiler.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/captioncompiler.exe
+demoinfo.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/demoinfo.exe
+dmxconvert.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/dmxconvert.exe
+dmxedit.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/dmxedit.exe
+elementviewer.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/elementviewer.exe
+glview.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/glview.exe
+hammer.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/hammer.exe
+hlfaceposer.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/hlfaceposer.exe
+hlmv.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/hlmv.exe
+mksheet.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/mksheet.exe
+motionmapper.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/motionmapper.exe
+shadercompile.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/shadercompile.exe
+splitskybox.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/splitskybox.exe
+studiomdl.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/studiomdl.exe
+vbsp.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/vbsp.exe
+vbspinfo.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/vbspinfo.exe
+vpk.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/vpk.exe
+vrad.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/vrad.exe
+vtex.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/vtex.exe
+vvis.exe#D:/SteamLibrary/SteamApps/common/nmrih/sdk/bin/vvis.exe
+Setup.exe#D:/SteamLibrary/SteamApps/downloading/226320/InstallDependencies/AmdDualCoreOptimizer/Setup.exe
+BranchConfigure.exe#D:/SteamLibrary/SteamApps/downloading/226320/InstallDependencies/BranchConfigure/BranchConfigure.exe
+DXSETUP.exe#D:/SteamLibrary/SteamApps/downloading/226320/InstallDependencies/DirectX/DXSETUP.exe
+AwesomiumProcess.exe#D:/SteamLibrary/SteamApps/downloading/226320/UnrealEngine3/Binaries/Win32/AwesomiumProcess.exe
+HardwareSurvey.exe#D:/SteamLibrary/SteamApps/downloading/226320/UnrealEngine3/Binaries/Win32/HardwareSurvey.exe
+SkyrimLauncher.exe#D:/TES V - Skyrim/SkyrimLauncher.exe
+TESV.exe#D:/TES V - Skyrim/TESV.exe
+dxwebsetup.exe#D:/The Elder Scrolls 5 Skyrim - RU/dxwebsetup.exe
+setup.exe#D:/The Elder Scrolls 5 Skyrim - RU/setup.exe
+clokspl.exe#D:/The Sword of Frost/clokspl.exe
+Sword.exe#D:/The Sword of Frost/Sword.exe
+AddPbk.exe#D:/USB-модем Билайн/AddPbk.exe
+AutoRunSetup.exe#D:/USB-модем Билайн/AutoRun/AutoRunSetup.exe
+AutoRunUninstall.exe#D:/USB-модем Билайн/AutoRun/AutoRunUninstall.exe
+DriverSetup.exe#D:/USB-модем Билайн/Driver/DriverSetup.exe
+DriverUninstall.exe#D:/USB-модем Билайн/Driver/DriverUninstall.exe
+mt.exe#D:/USB-модем Билайн/mt.exe
+subinacl.exe#D:/USB-модем Билайн/subinacl.exe
+UnblockPin.exe#D:/USB-модем Билайн/UnblockPin.exe
+uninst.exe#D:/USB-модем Билайн/uninst.exe
+LiveUpd.exe#D:/USB-модем Билайн/UpdateDog/LiveUpd.exe
+KillOUC.exe#D:/USB-модем Билайн/UpdateDog/OnlineUpdate Data/KillOUC.exe
+ouc.exe#D:/USB-модем Билайн/UpdateDog/ouc.exe
+RunLiveUpd.exe#D:/USB-модем Билайн/UpdateDog/RunLiveUpd.exe
+RunOuc.exe#D:/USB-модем Билайн/UpdateDog/RunOuc.exe
+XStartScreen.exe#D:/USB-модем Билайн/XStartScreen.exe
+VHMultiWriterExt.exe#D:/VHMultiWriterExt.exe
+XDS.exe#D:/XDS.exe
+XSplitBroadcasterSrc.exe#D:/XSplitBroadcasterSrc.exe
+XSplitCleanUp.exe#D:/XSplitCleanUp.exe
+XSplitRegSrc.exe#D:/XSplitRegSrc.exe
+XSplitUtils.exe#D:/XSplitUtils.exe
+AdobeAIRInstaller.exe#E:/Adobe Flash Professional CS5/payloads/AdobeAIR1.5.3-mul/AdobeAIRInstaller.exe
+AdobeAIRInstaller.exe#E:/Adobe Flash Professional CS5/payloads/AdobeAMP1.8-mul/AdobeAIRInstaller.exe
+AdobeAIRInstaller.exe#E:/Adobe Flash Professional CS5/payloads/AdobeHelp/AdobeAIRInstaller.exe
+AIRInstallerRunner.exe#E:/Adobe Flash Professional CS5/payloads/AdobeHelp/AIRInstallerRunner.exe
+AdobeAIRInstaller.exe#E:/AdobeAIRInstaller.exe
+Client.exe#E:/Games/BS/live/client/Client.exe
+setup.exe#E:/office/setup.exe
+CheckXML.exe#E:/Persw/CheckXML/CheckXML.exe
+TaxcomWindow.exe#E:/Persw/CheckXML/kladr/TaxcomWindow.exe
+uninstall.exe#E:/Persw/CheckXML/uninstall.exe
+vlsverkapf.exe#E:/Persw/CheckXML/vlsverkapf.exe
+persw.exe#E:/Persw/persw.exe
+firefox.exe#E:/Tor Browser/Browser/firefox.exe
+tor.exe#E:/Tor Browser/Tor/tor.exe
+DDConfigCA.exe#E:/Visual studio/Common7/IDE/DDConfigCA.exe
+MakeZipExe.exe#E:/Visual studio/Common7/IDE/MakeZipExe.exe
+mspdbsrv.exe#E:/Visual studio/Common7/IDE/mspdbsrv.exe
+StorePID.exe#E:/Visual studio/Common7/IDE/StorePID.exe
+UserControlTestContainer.exe#E:/Visual studio/Common7/IDE/UserControlTestContainer.exe
+vbexpress.exe#E:/Visual studio/Common7/IDE/vbexpress.exe
+VCExpress.exe#E:/Visual studio/Common7/IDE/VCExpress.exe
+VCSExpress.exe#E:/Visual studio/Common7/IDE/VCSExpress.exe
+vshost.exe#E:/Visual studio/Common7/IDE/vshost.exe
+VSIXInstaller.exe#E:/Visual studio/Common7/IDE/VSIXInstaller.exe
+VWDExpress.exe#E:/Visual studio/Common7/IDE/VWDExpress.exe
+WcfTestClient.exe#E:/Visual studio/Common7/IDE/WcfTestClient.exe
+msvsmon.exe#E:/Visual studio/Common7/Packages/Debugger/X64/msvsmon.exe
+errlook.exe#E:/Visual studio/Common7/Tools/errlook.exe
+makehm.exe#E:/Visual studio/Common7/Tools/makehm.exe
+vcupgrade.exe#E:/Visual studio/Common7/Tools/vcupgrade.exe
+DeleteTemp.exe#E:/Visual studio/Microsoft Visual Basic 2010 Express - RUS/DeleteTemp.exe
+setup.exe#E:/Visual studio/Microsoft Visual Basic 2010 Express - RUS/setup.exe
+DeleteTemp.exe#E:/Visual studio/Microsoft Visual C# 2010 Express - RUS/DeleteTemp.exe
+setup.exe#E:/Visual studio/Microsoft Visual C# 2010 Express - RUS/setup.exe
+DeleteTemp.exe#E:/Visual studio/Microsoft Visual C++ 2010 Express - RUS/DeleteTemp.exe
+setup.exe#E:/Visual studio/Microsoft Visual C++ 2010 Express - RUS/setup.exe
+DeleteTemp.exe#E:/Visual studio/Microsoft Visual Web Developer 2010 Express - RUS/DeleteTemp.exe
+setup.exe#E:/Visual studio/Microsoft Visual Web Developer 2010 Express - RUS/setup.exe
+bscmake.exe#E:/Visual studio/VC/bin/bscmake.exe
+cl.exe#E:/Visual studio/VC/bin/cl.exe
+cvtres.exe#E:/Visual studio/VC/bin/cvtres.exe
+dumpbin.exe#E:/Visual studio/VC/bin/dumpbin.exe
+editbin.exe#E:/Visual studio/VC/bin/editbin.exe
+lib.exe#E:/Visual studio/VC/bin/lib.exe
+link.exe#E:/Visual studio/VC/bin/link.exe
+ml.exe#E:/Visual studio/VC/bin/ml.exe
+nmake.exe#E:/Visual studio/VC/bin/nmake.exe
+undname.exe#E:/Visual studio/VC/bin/undname.exe
+xdcmake.exe#E:/Visual studio/VC/bin/xdcmake.exe
+vcpkgsrv.exe#E:/Visual studio/VC/vcpackages/vcpkgsrv.exe
+autorun.exe#E:/Видеокурс по основам PHP/autorun.exe
+Denwer.exe#E:/Видеокурс по основам PHP/files/Denwer.exe
+flashplayer.exe#E:/Видеокурс по основам PHP/files/flashplayer.exe
+AccessRuntime.exe#E:/Загрузки/AccessRuntime.exe
+AudioMaster.exe#E:/Загрузки/AudioMaster.exe
+ChromeSetup.exe#E:/Загрузки/ChromeSetup.exe
+enLauncher.exe#E:/Загрузки/enLauncher.exe
+jmf.exe#E:/Загрузки/jmf.exe
+Minecraft.exe#E:/Загрузки/Minecraft.exe
+utorrent.exe#E:/Загрузки/utorrent.exe
+pyat.exe#E:/Фарб/Directmedia/15/pyat.exe
+Uninstall.exe#E:/Фарб/Directmedia/Uninstall.exe
+eclipse.exe#F:/adt-bundle-windows-x86-20140702/eclipse/eclipse.exe
+eclipsec.exe#F:/adt-bundle-windows-x86-20140702/eclipse/eclipsec.exe
+listtasks.exe#F:/adt-bundle-windows-x86-20140702/eclipse/plugins/org.eclipse.cdt.core.win32.x86_5.2.0.201202111925/os/win32/x86/listtasks.exe
+starter.exe#F:/adt-bundle-windows-x86-20140702/eclipse/plugins/org.eclipse.cdt.core.win32.x86_5.2.0.201202111925/os/win32/x86/starter.exe
+aapt.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/17.0.0/aapt.exe
+aidl.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/17.0.0/aidl.exe
+dexdump.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/17.0.0/dexdump.exe
+aapt.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/18.0.1/aapt.exe
+aidl.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/18.0.1/aidl.exe
+dexdump.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/18.0.1/dexdump.exe
+aapt.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/18.1.0/aapt.exe
+aidl.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/18.1.0/aidl.exe
+dexdump.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/18.1.0/dexdump.exe
+aapt.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/18.1.1/aapt.exe
+aidl.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/18.1.1/aidl.exe
+dexdump.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/18.1.1/dexdump.exe
+aapt.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/19.0.0/aapt.exe
+aidl.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/19.0.0/aidl.exe
+dexdump.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/19.0.0/dexdump.exe
+aapt.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/19.0.1/aapt.exe
+aidl.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/19.0.1/aidl.exe
+dexdump.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/19.0.1/dexdump.exe
+aapt.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/19.0.2/aapt.exe
+aidl.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/19.0.2/aidl.exe
+dexdump.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/19.0.2/dexdump.exe
+aapt.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/19.0.3/aapt.exe
+aidl.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/19.0.3/aidl.exe
+dexdump.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/19.0.3/dexdump.exe
+aapt.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/19.1.0/aapt.exe
+aidl.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/19.1.0/aidl.exe
+dexdump.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/19.1.0/dexdump.exe
+zipalign.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/19.1.0/zipalign.exe
+aapt.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/android-4.4W/aapt.exe
+aidl.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/android-4.4W/aidl.exe
+dexdump.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/android-4.4W/dexdump.exe
+zipalign.exe#F:/adt-bundle-windows-x86-20140702/sdk/build-tools/android-4.4W/zipalign.exe
+adb.exe#F:/adt-bundle-windows-x86-20140702/sdk/platform-tools/adb.exe
+dmtracedump.exe#F:/adt-bundle-windows-x86-20140702/sdk/platform-tools/dmtracedump.exe
+fastboot.exe#F:/adt-bundle-windows-x86-20140702/sdk/platform-tools/fastboot.exe
+emulator.exe#F:/adt-bundle-windows-x86-20140702/sdk/tools/emulator.exe
+eclipsec.exe#F:/adt-bundle-windows-x86-20140702/sdk/tools/lib/monitor-x86/eclipsec.exe
+monitor.exe#F:/adt-bundle-windows-x86-20140702/sdk/tools/lib/monitor-x86/monitor.exe
+eclipsec.exe#F:/adt-bundle-windows-x86-20140702/sdk/tools/lib/monitor-x86_64/eclipsec.exe
+monitor.exe#F:/adt-bundle-windows-x86-20140702/sdk/tools/lib/monitor-x86_64/monitor.exe
+mksdcard.exe#F:/adt-bundle-windows-x86-20140702/sdk/tools/mksdcard.exe
+evallm.exe#F:/cmuclmtk/evallm.exe
+mergeidngram.exe#F:/cmuclmtk/mergeidngram.exe
+espeak.exe#F:/Java/eSpeak/command_line/espeak.exe
+TTSApp.exe#F:/Java/eSpeak/TTSApp.exe
+jsapi.exe#F:/Java/java speech api/freetts-1.2/lib/jsapi.exe
+jmfcustomizer.exe#F:/Java/JMF/bin/jmfcustomizer.exe
+jmfinit.exe#F:/Java/JMF/bin/jmfinit.exe
+jmfregistry.exe#F:/Java/JMF/bin/jmfregistry.exe
+jmstudio.exe#F:/Java/JMF/bin/jmstudio.exe
+mbredit.exe#F:/Java/Mbrola Tools/mbredit.exe
+mbroli.exe#F:/Java/Mbrola Tools/mbroli.exe
+phoplayer.exe#F:/Java/Mbrola Tools/phoplayer.exe
+netbeans.exe#F:/Java/netBeans/NetBeans 7.4/bin/netbeans.exe
+app.exe#F:/Java/netBeans/NetBeans 7.4/harness/launchers/app.exe
+nbexec.exe#F:/Java/netBeans/NetBeans 7.4/platform/lib/nbexec.exe
+uninstall.exe#F:/Java/netBeans/NetBeans 7.4/uninstall.exe
+jsapi.exe#F:/sphinx/lib/jsapi.exe
+jsapi.exe#F:/sphinx4-1.0beta6/lib/jsapi.exe
+DjVuReader.exe#F:/Книги/С++/Osvoj_samsostoyatelno_C++_za_24_chasa/djvureader/DjVuReader.exe
